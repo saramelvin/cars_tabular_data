@@ -1,0 +1,11 @@
+Years_Released,Car_Manufacturer,Car_Model,Car_Description,Car_Transmission_Type,Car_Engine_Capacity_In_Cubic_Centimeters,Car_Fuel_Type,Urban_Fuel_Consumption_In_Metric_Units,Extra_Urban_Fuel_Consumption_In_Metric_Units,Combined_Fuel_Consumption_In_Metric_Units,Urban_Fuel_Consumption_In_Imperial_Units,Extra_Urban_Fuel_Consumption_In_Imperial_Units,Combined_Urban_Fuel_Consumption_In_Imperial_Units,Fuel_Cost_Per_6000_Miles,Electric_Energy_Consumption_Miles_Per_KWh,Wh_Per_Km,Maximum_Range_Km,Maximum_Range_Miles,Electricity_Cost,Total_Cost,Level_Of_External_Noise_Emitted_In_Decibels,CO2_Emissions_In_Grams_Per_Km,CO_Emmisions_In_Milligrams_Per_Km,THC_Emissions_In_Milligrams_Per_Km,NOx_Emissions_In_Milligrams_Per_Km,THC_And_NOx_Emissions_In_Milligrams_Per_Km,Particulate_Matter_In_Milligrams_Per_Km
+2016,KIA,Soul,EV,,,Electricity,,,,,,,,4.2,147,212,132,197.5,197.5,71.3,,,,,,
+2017,KIA,Soul,EV,,,Electricity,,,,,,,,4.2,147,212,132,220.0,220.0,71.3,,,,,,
+2016,PEUGEOT,iOn,iOn,,,Electricity,,,,,,,,4.9,126,150,93,170.0,170.0,66.0,,,,,,
+2017,PEUGEOT,iOn,iOn,,,Electricity,,,,,,,,4.9,126,150,93,188.5,188.5,66.0,,,,,,
+2015,KIA,New Soul,EV,,,Electricity,,,,,,,,4.2,147,212,132,201.5,201.5,71.3,,,,,,
+2016,RENAULT,Zoe,Zoe,,,Electricity,,,,,,,,4.3,146,240,149,196.0,196.0,70.2,,,,,,
+2013,NISSAN,Leaf,Leaf,,,Electricity,,,,,,,,3.6,173,175,109,242.0,242.0,68.0,,,,,,
+2014,NISSAN,Leaf,Leaf,,,Electricity,,,,,,,,3.6,173,175,109,241.5,241.5,68.0,,,,,,
+2015,NISSAN,Leaf,Leaf,,,Electricity,,,,,,,,3.6,173,175,109,235.0,235.0,68.0,,,,,,
+2016,NISSAN,Leaf,Leaf,,,Electricity,,,,,,,,3.6,173,175,109,231.5,231.5,68.0,,,,,,

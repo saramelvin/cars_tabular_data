@@ -1,0 +1,217 @@
+{
+  "name":"euro-2-cars-emissions-traded-on-uk-market-2000-2002",
+  "title":"Euro 2 Cars Emissions Traded On UK Market 2000-2002",
+  "description":"This dataset contains car emissions and estimated data about new cars (other than vans, 4x4s and pickups) available for sale in the UK market from EU Emission Standard Euro 2 from 2000 to 2002. The estimated data for emissions, consumption and cost of fuel are presented along with car identification data, as well as data on fuel type, engine capacity and transmission type.",
+  "documentation":"The source of data is UK Vehicle Certification Agency, of the United Kingdom Department for Transport and the United Kingdom's national approval authority for new road vehicles, agricultural tractors and off-road vehicles.\n\nThis dataset contains cleaned and organized data about the following car emissions: CO2, CO, hydrocarbons, oxides of nitrogen, particulate matter and external noise. In the same time it contains data about fuel and/or electricity consumption and the cost associated. According to UK Vehicle Certification Agency the majority of new Euro 2 cars traded on UK market, starting with each of the year of the period 2000-2002, are described in this dataset. The variables values are obtained from official tests, which are required before a model of car may be offered for sale. The values are listed for most new petrol and diesel cars on sale in the UK as well as for some cars powered by alternative fuels (Liquefied Petroleum Gas or Compressed Natural Gas). Values are also listed for some hybrid vehicles, which use both electric motors and internal combustion engines, and for pure electric cars.\n\nThe fuel related data are those published by the Department of Energy and Climate Change for March, and appear on the 'efficiency labels' that can be seen in car showrooms. The fuel cost is given for comparison purposes, for any given vehicle it will depend on the actual fuel consumption achieved and the price you pay for fuel. Because fuel cost was measured at 6000 or 12000 miles, to have a unique measure and keep the estimation as precise as possible the fuel cost estimated at 12000 miles was halved.\n\nMissing data is represented in the dataset by 0 length string (empty cells). The raw data was collected in a controlled environment and represents estimates of above-mentioned pollutants levels. \n\nThis dataset doesn't include data about vans, 4x4s or pickups.",
+  "date_created":"2002-05",
+  "last_updated":"2002-05",
+  "version":"2002-05",
+  "update_frequency":"Never",
+  "temporal_coverage":"2000-2002",
+  "spatial_coverage":"United Kingdom",
+  "complexity":"Simple",
+  "license":"John Snow Labs Standard License",
+  "sources":[
+    {
+      "title":"John Snow Labs"
+    },
+    {
+      "title":"Vehicle Certification Agency, UK"
+    }
+  ],
+  "contributors":[
+    {
+      "title":"John Snow Labs",
+      "email":"support@JohnSnowLabs.com",
+      "uri":"http://www.JohnSnowLabs.com",
+      "role":"author"
+    }
+  ],
+  "source_license_requirements":"N/A",
+  "citation":"N/A",
+  "keywords":[
+    "UK Car Emissions",
+    "Car CO2 Emissions",
+    "Car CO Emissions",
+    "Car Pollution",
+    "Fuel Cars Consumption",
+    "Electric Cars Consumption",
+    "Hybrid Cars Consumption",
+    "Euro 2 Cars",
+    "Cars For Sale UK"
+  ],
+  "other_titles":[
+    "UK Market Euro 2 Cars Pollution",
+    "Euro 2 Cars By Manufacturer and Model Emissions",
+    "Cars Level Of Emissions in UK"
+  ],
+  "resources":[
+    {
+      "path":"data.csv",
+      "name":"euro-2-cars-emissions-traded-on-uk-market-2000-2002-csv",
+      "format":"csv",
+      "mediatype":"text/csv",
+      "schema":{
+        "fields":[
+          {
+            "name":"Years_Released",
+            "description":"The year UK Vehicle Certification Agency released the report about emissions from new cars traded on UK Market",
+            "type":"date",
+            "format":"date",
+            "constraints":{
+              "required":true
+            }
+          },
+          {
+            "name":"Car_Manufacturer",
+            "description":"The official car name manufacturer or importer",
+            "type":"string",
+            "constraints":{
+              "required":true
+            }
+          },
+          {
+            "name":"Car_Model",
+            "description":"The official brand under which a car manufacturer or importer is selling a specific type of car",
+            "type":"string"
+          },
+          {
+            "name":"Car_Description",
+            "description":"Specific characteristics of a car or cars belonging to a model sold by a car manufacturer or importer",
+            "type":"string"
+          },
+          {
+            "name":"Car_Transmission_Type",
+            "description":"The abbreviate description for a car model transmission types or types",
+            "type":"string"
+          },
+          {
+            "name":"Car_Engine_Capacity_In_Cubic_Centimeters",
+            "description":"A car model engine capacity or capacities in cubic centimeters(cc)",
+            "type":"integer",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Car_Fuel_Type",
+            "description":"The type of fuel or fuels a car model with specific characteristics is using",
+            "type":"string"
+          },
+          {
+            "name":"Urban_Fuel_Consumption_In_Metric_Units",
+            "description":"The urban fuel consumption in liters per 100 kilometers, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Extra_Urban_Fuel_Consumption_In_Metric_Units",
+            "description":"The extra-urban fuel consumption in liters per 100 kilometers, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Combined_Fuel_Consumption_In_Metric_Units",
+            "description":"The urban and extra-urban combined fuel consumption in liters per 100 kilometers, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Urban_Fuel_Consumption_In_Imperial_Units",
+            "description":"The urban fuel consumption in miles per imperial gallon, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Extra_Urban_Fuel_Consumption_In_Imperial_Units",
+            "description":"The extra-urban fuel consumption in miles per imperial gallon, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Combined_Urban_Fuel_Consumption_In_Imperial_Units",
+            "description":"The urban and extra-urban combined fuel consumption in miles per imperial gallon, at an ambient temperature of 20-30 Celsius degrees",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Fuel_Cost_Per_6000_Miles",
+            "description":"The estimated fuel cost in pounds at 6,000 miles or halved from cost at 12,000 miles",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Level_Of_External_Noise_Emitted_In_Decibels",
+            "description":"The estimated level of external noise in decibels, measured on the A scale (so it is more closely represented what is heard by the human ear), emitted by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"CO2_Emissions_In_Grams_Per_Km",
+            "description":"The estimated level of CO2 emissions, in grams per kilometer, released by a car model with specific characteristics",
+            "type":"integer",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"CO_Emmisions_In_Milligrams_Per_Km",
+            "description":"The estimated level of CO emissions, in milligrams per kilometer, released by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"THC_Emissions_In_Milligrams_Per_Km",
+            "description":"The estimated level of hydrocarbons emissions, in milligrams per kilometer, released by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"NOx_Emissions_In_Milligrams_Per_Km",
+            "description":"The estimated level of oxides of nitrogen (nitrogen dioxide - NO2 and nitric oxide - NO) emissions, in milligrams per kilometer, released by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"THC_And_NOx_Emissions_In_Milligrams_Per_Km",
+            "description":"The estimated cumulative level of hydrocarbons and oxides of nitrogen (nitrogen dioxide - NO2 and nitric oxide - NO) emissions, in milligrams per kilometer, released by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          },
+          {
+            "name":"Particulate_Matter_In_Milligrams_Per_Km",
+            "description":"The estimated level of particulate matter emissions, in milligrams per kilometer, released by a car model with specific characteristics",
+            "type":"number",
+            "constraints":{
+              "level":"Ratio"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

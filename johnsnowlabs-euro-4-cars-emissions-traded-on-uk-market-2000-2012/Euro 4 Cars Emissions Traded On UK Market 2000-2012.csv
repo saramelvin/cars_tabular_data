@@ -1,0 +1,11 @@
+Years_Released,Car_Manufacturer,Car_Model,Car_Description,Car_Transmission_Type,Car_Engine_Capacity_In_Cubic_Centimeters,Car_Fuel_Type,Urban_Fuel_Consumption_In_Metric_Units,Extra_Urban_Fuel_Consumption_In_Metric_Units,Combined_Fuel_Consumption_In_Metric_Units,Urban_Fuel_Consumption_In_Imperial_Units,Extra_Urban_Fuel_Consumption_In_Imperial_Units,Combined_Urban_Fuel_Consumption_In_Imperial_Units,Fuel_Cost_Per_6000_Miles,Level_Of_External_Noise_Emitted_In_Decibels,CO2_Emissions_In_Grams_Per_Km,CO_Emmisions_In_Milligrams_Per_Km,THC_Emissions_In_Milligrams_Per_Km,NOx_Emissions_In_Milligrams_Per_Km,THC_And_NOx_Emissions_In_Milligrams_Per_Km,Particulate_Matter_In_Milligrams_Per_Km
+2010,KIA,Rio,1.4,M5,1399,Petrol,7.3,5.1,5.9,38.7,55.4,47.9,638.0,72.0,139,0.4,,,,
+2010,KIA,Rio,1.4,A4,1399,Petrol,9.2,5.6,7.0,30.7,50.4,40.4,756.0,70.0,165,0.4,,,,
+2009,KIA,Rio,1.4,M5,1399,Petrol,7.3,5.1,5.9,38.7,55.4,47.9,501.0,72.0,139,0.4,,,,
+2009,KIA,Rio,1.6,M5,1599,Petrol,7.8,5.1,6.1,36.2,55.4,46.3,518.5,73.0,145,0.2,,,,
+2009,KIA,Rio,1.4,A4,1399,Petrol,9.2,5.6,7.0,30.7,50.4,40.4,594.0,70.0,165,0.4,,,,
+2008,KIA,Rio,1.4,A4,1399,Petrol,9.9,5.6,7.2,28.5,50.4,39.2,737.5,70.0,171,0.3,,,,
+2007,KIA,Rio,1.4,A4,1399,Petrol,9.9,5.6,7.2,28.5,50.4,39.2,605.5,70.0,171,0.3,,,,
+2006,KIA,Rio,1.4,A4,1399,Petrol,9.9,5.6,7.2,28.5,50.4,39.2,626.0,70.0,171,0.3,,,,
+2010,KIA,Picanto,1,M5,999,Petrol,5.7,4.3,4.8,49.6,65.7,58.8,519.5,72.0,114,0.4,,,,
+2010,KIA,Soul,1.6,M5,1591,Petrol,7.9,5.7,6.5,35.8,49.6,43.5,702.5,71.0,153,0.4,,,,

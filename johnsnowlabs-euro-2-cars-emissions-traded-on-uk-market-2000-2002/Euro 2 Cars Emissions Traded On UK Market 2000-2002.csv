@@ -1,0 +1,11 @@
+Years_Released,Car_Manufacturer,Car_Model,Car_Description,Car_Transmission_Type,Car_Engine_Capacity_In_Cubic_Centimeters,Car_Fuel_Type,Urban_Fuel_Consumption_In_Metric_Units,Extra_Urban_Fuel_Consumption_In_Metric_Units,Combined_Fuel_Consumption_In_Metric_Units,Urban_Fuel_Consumption_In_Imperial_Units,Extra_Urban_Fuel_Consumption_In_Imperial_Units,Combined_Urban_Fuel_Consumption_In_Imperial_Units,Fuel_Cost_Per_6000_Miles,Level_Of_External_Noise_Emitted_In_Decibels,CO2_Emissions_In_Grams_Per_Km,CO_Emmisions_In_Milligrams_Per_Km,THC_Emissions_In_Milligrams_Per_Km,NOx_Emissions_In_Milligrams_Per_Km,THC_And_NOx_Emissions_In_Milligrams_Per_Km,Particulate_Matter_In_Milligrams_Per_Km
+2001,MAZDA,323,1.3,M5,1324,Petrol,9.3,6.2,7.3,30.4,45.6,38.7,529.0,72.0,177,0.5,,,0.3,
+2001,MAZDA,323,1.5,M5,1498,Petrol,9.5,6.3,7.5,29.7,44.8,37.7,543.0,73.0,181,0.2,,,0.2,
+2001,MAZDA,MPV,2,M5,1991,Petrol,12.6,8.6,10.1,22.4,32.9,28.0,731.0,72.0,242,0.8,,,0.3,
+2001,MAZDA,323,1.3,M5,1324,Petrol,9.3,6.2,7.3,30.4,45.6,38.7,564.0,72.0,177,0.5,,,0.3,
+2001,MAZDA,323,1.5,M5,1498,Petrol,9.5,6.3,7.5,29.7,44.8,37.7,579.0,73.0,181,0.2,,,0.2,
+2001,MAZDA,MPV,2,M5,1991,Petrol,12.6,8.6,10.1,22.4,32.9,28.0,779.0,72.0,242,0.8,,,0.3,
+2000,MAZDA,121,1.3,M5,1299,Petrol,8.7,5.9,6.9,32.5,47.9,40.9,520.0,72.0,161,0.6,,,0.2,
+2000,MAZDA,323,1.3,M5,1324,Petrol,9.3,6.2,7.3,30.4,45.6,38.7,550.0,72.0,177,0.5,,,0.3,
+2000,MAZDA,323,1.5,M5,1498,Petrol,9.5,6.3,7.5,29.7,44.8,37.7,564.0,73.0,181,0.2,,,0.2,
+2000,MAZDA,MPV,2,M5,1991,Petrol,12.6,8.6,10.1,22.4,32.9,28.0,760.0,72.0,242,0.8,,,0.3,

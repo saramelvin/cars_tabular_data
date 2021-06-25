@@ -1,0 +1,65 @@
+TestCentre,TestDetails,LTestPrivateCars
+Altnagelvin,Tests Conducted,3978
+Altnagelvin,Pass,1898
+Altnagelvin,Fail,2080
+Altnagelvin,Pass %,0.477124183
+Armagh,Tests Conducted,1506
+Armagh,Pass,846
+Armagh,Fail,660
+Armagh,Pass %,0.561752988
+Ballymena,Tests Conducted,2889
+Ballymena,Pass,1605
+Ballymena,Fail,1284
+Ballymena,Pass %,0.555555556
+Balmoral,Tests Conducted,5900
+Balmoral,Pass,2778
+Balmoral,Fail,3122
+Balmoral,Pass %,0.470847458
+Coleraine,Tests Conducted,3014
+Coleraine,Pass,1711
+Coleraine,Fail,1303
+Coleraine,Pass %,0.567684141
+Cookstown,Tests Conducted,3871
+Cookstown,Pass,2005
+Cookstown,Fail,1866
+Cookstown,Pass %,0.517954017
+Craigavon,Tests Conducted,2969
+Craigavon,Pass,1908
+Craigavon,Fail,1061
+Craigavon,Pass %,0.64264062
+Dill Road,Tests Conducted,4639
+Dill Road,Pass,2266
+Dill Road,Fail,2373
+Dill Road,Pass %,0.488467342
+Downpatrick,Tests Conducted,1989
+Downpatrick,Pass,1364
+Downpatrick,Fail,625
+Downpatrick,Pass %,0.685771745
+Enniskillen,Tests Conducted,1778
+Enniskillen,Pass,913
+Enniskillen,Fail,865
+Enniskillen,Pass %,0.513498313
+Larne,Tests Conducted,3631
+Larne,Pass,2081
+Larne,Fail,1550
+Larne,Pass %,0.573120353
+Lisburn,Tests Conducted,2272
+Lisburn,Pass,1475
+Lisburn,Fail,797
+Lisburn,Pass %,0.649207746
+Newry,Tests Conducted,3196
+Newry,Pass,1655
+Newry,Fail,1541
+Newry,Pass %,0.517834793
+Newtownards,Tests Conducted,3688
+Newtownards,Pass,1942
+Newtownards,Fail,1746
+Newtownards,Pass %,0.526572668
+Omagh,Tests Conducted,2225
+Omagh,Pass,1412
+Omagh,Fail,813
+Omagh,Pass %,0.634606742
+Overall,Tests Conducted,47545
+Overall,Pass,25859
+Overall,Fail,21686
+Overall,Pass %,0.543884741

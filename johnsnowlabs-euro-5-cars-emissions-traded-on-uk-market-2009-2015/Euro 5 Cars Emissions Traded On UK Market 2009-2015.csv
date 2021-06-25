@@ -1,0 +1,11 @@
+Years_Released,Car_Manufacturer,Car_Model,Car_Description,Car_Transmission_Type,Car_Engine_Capacity_In_Cubic_Centimeters,Car_Fuel_Type,Urban_Fuel_Consumption_In_Metric_Units,Extra_Urban_Fuel_Consumption_In_Metric_Units,Combined_Fuel_Consumption_In_Metric_Units,Urban_Fuel_Consumption_In_Imperial_Units,Extra_Urban_Fuel_Consumption_In_Imperial_Units,Combined_Urban_Fuel_Consumption_In_Imperial_Units,Fuel_Cost_Per_6000_Miles,Electric_Energy_Consumption_Miles_Per_KWh,Wh_Per_Km,Maximum_Range_Km,Maximum_Range_Miles,Electricity_Cost,Total_Cost,Level_Of_External_Noise_Emitted_In_Decibels,CO2_Emissions_In_Grams_Per_Km,CO_Emmisions_In_Milligrams_Per_Km,THC_Emissions_In_Milligrams_Per_Km,NOx_Emissions_In_Milligrams_Per_Km,THC_And_NOx_Emissions_In_Milligrams_Per_Km,Particulate_Matter_In_Milligrams_Per_Km
+2015,PEUGEOT,iOn,iOn,,,Electricity,,,,,,,,4.9,126,150,93,172.5,172.5,66.0,,,,,,
+2014,PEUGEOT,iOn,iOn,,,Electricity,,,,,,,,4.9,126,150,93,177.5,177.5,66.0,,,,,,
+2015,RENAULT,Zoe,Zoe,,,Electricity,,,,,,,,4.3,146,210,130,196.5,196.5,70.2,,,,,,
+2014,RENAULT,Zoe,Zoe,,,Electricity,,,,,,,,4.3,146,210,130,202.5,202.5,70.2,,,,,,
+2013,RENAULT,Zoe,Zoe,,,Electricity,,,,,,,,4.3,146,210,115,204.0,204.0,70.2,,,,,,
+2015,VOLKSWAGEN,UP,e-UP,,,Electricity,,,,,,,,5.3,117,160,99,159.5,159.5,68.0,,,,,,
+2014,VOLKSWAGEN,UP,e-UP,,,Electricity,,,,,,,,5.3,117,160,99,164.0,164.0,68.0,,,,,,
+2015,CITROEN,C-Zero,C-Zero,,,Electricity,,,,,,,,4.9,126,150,93,172.5,172.5,66.0,,,,,,
+2014,CITROEN,C-Zero,C-Zero,,,Electricity,,,,,,,,4.9,126,150,93,177.5,177.5,66.0,,,,,,
+2013,CITROEN,C-Zero,C-Zero,,,Electricity,,,,,,,,4.9,126,150,93,176.0,176.0,66.0,,,,,,

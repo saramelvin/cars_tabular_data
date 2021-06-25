@@ -1,0 +1,73 @@
+TestCentre,TestDetails,AllTests,CarTests,MotorbikeTests
+Armagh,Conducted,1621,1538,83
+Armagh,Pass,969,897,72
+Armagh,Fail,652,641,11
+Armagh,Pass %,0.597779149,0.583224967,0.86746988
+Ballymena,Conducted,3008,2708,294
+Ballymena,Pass,1842,1636,200
+Ballymena,Fail,1166,1072,94
+Ballymena,Pass %,0.612367021,0.604135894,0.680272109
+Belfast (Balmoral),Conducted,8789,5585,0
+Belfast (Balmoral),Pass,4900,2650,0
+Belfast (Balmoral),Fail,3889,2935,0
+Belfast (Balmoral),Pass %,0.557515076,0.474485228,-
+Belfast (Dill Road),Conducted,4619,4584,35
+Belfast (Dill Road),Pass,2277,2254,23
+Belfast (Dill Road),Fail,2342,2330,12
+Belfast (Dill Road),Pass %,0.492963845,0.491710297,0.657142857
+Coleraine,Conducted,3526,2991,72
+Coleraine,Pass,2207,1758,55
+Coleraine,Fail,1319,1233,17
+Coleraine,Pass %,0.625921724,0.58776329,0.763888889
+Cookstown,Conducted,3746,3684,62
+Cookstown,Pass,2055,2006,49
+Cookstown,Fail,1691,1678,13
+Cookstown,Pass %,0.548585158,0.54451683,0.790322581
+Craigavon,Conducted,5730,2991,373
+Craigavon,Pass,4034,1850,285
+Craigavon,Fail,1696,1141,88
+Craigavon,Pass %,0.704013962,0.618522233,0.764075067
+Downpatrick,Conducted,2026,1928,96
+Downpatrick,Pass,1425,1353,71
+Downpatrick,Fail,601,575,25
+Downpatrick,Pass %,0.703356367,0.701763485,0.739583333
+Enniskillen,Conducted,1912,1813,99
+Enniskillen,Pass,1023,944,79
+Enniskillen,Fail,889,869,20
+Enniskillen,Pass %,0.535041841,0.520683949,0.797979798
+Larne,Conducted,4115,4050,65
+Larne,Pass,2212,2156,56
+Larne,Fail,1903,1894,9
+Larne,Pass %,0.537545565,0.532345679,0.861538462
+Lisburn,Conducted,2692,2385,307
+Lisburn,Pass,1782,1531,251
+Lisburn,Fail,910,854,56
+Lisburn,Pass %,0.661961367,0.641928721,0.817589577
+Londonderry (Altnagelvin),Conducted,4178,4010,72
+Londonderry (Altnagelvin),Pass,1893,1787,56
+Londonderry (Altnagelvin),Fail,2285,2223,16
+Londonderry (Altnagelvin),Pass %,0.453087602,0.44563591,0.777777778
+Londonderry (New Buildings),Conducted,1412,0,124
+Londonderry (New Buildings),Pass,1058,0,82
+Londonderry (New Buildings),Fail,354,0,42
+Londonderry (New Buildings),Pass %,0.749291785,-,0.661290323
+Mallusk,Conducted,811,0,811
+Mallusk,Pass,575,0,575
+Mallusk,Fail,236,0,236
+Mallusk,Pass %,0.709001233,-,0.709001233
+Newry,Conducted,3107,3043,38
+Newry,Pass,1764,1712,32
+Newry,Fail,1343,1331,6
+Newry,Pass %,0.567750241,0.562602695,0.842105263
+Newtownards,Conducted,3961,3660,234
+Newtownards,Pass,2283,2070,170
+Newtownards,Fail,1678,1590,64
+Newtownards,Pass %,0.576369604,0.56557377,0.726495726
+Omagh,Conducted,2693,2109,177
+Omagh,Pass,1765,1310,118
+Omagh,Fail,928,799,59
+Omagh,Pass %,0.655402896,0.621147463,0.666666667
+Overall,Conducted,57946,47079,2942
+Overall,Pass,34064,25914,2174
+Overall,Fail,23882,21165,768
+Overall,Pass %,0.587857661,0.5504365,0.738953093
